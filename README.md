@@ -15,3 +15,6 @@ Please fork this repository and follow along **using your fork** as the instruct
 ## Tutorial in Toolkit
 
 1. Set port as a const and use it dynamically
+2. change port # to process.env.PORT
+3. npm i dotenv
+4.
